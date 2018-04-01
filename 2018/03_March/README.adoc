@@ -1,0 +1,28 @@
+== JBUG Meetup (March 2018)
+==== Saturday, March 31 at 2 PM ~ 6 PM
+* https://www.facebook.com/events/197357617534740/ 
+
+
+=== 공지
+----
+3월 31일 토요일 오후 2시 ~ 6시
+모임명 : NAVER개발자커뮤니티지원_JBUGKorea
+토즈 선릉점
+----
+
+=== Session
+* 블록체인과 개발자 - https://www.facebook.com/yusoo.kim.90[김유수^]
+ - https://www.slideshare.net/yusookim90/ss-92535876
+* asciidoc 간략 소개 - https://www.facebook.com/tedwon[원종석^]
+ - http://asciidoc.org/
+ - https://goo.gl/2HntgG
+* Undertow RequestBufferingHandler 소개 - https://www.facebook.com/tedwon[원종석^]
+ - https://goo.gl/bVwhhb
+
+=== Next Plan
+* 4월 정기모임은 봄 워크샵 예정입니다.
+ - 1박2일 강원도 예정
+* 공감세미나 5월 26일 토
+ - 김유수님 발표 예정
+
+pass:[<div align="center"><b><a href="https://www.facebook.com/groups/jbossusergroup" target="_blank">www.facebook.com/groups/jbossusergroup</a></b></div>]
