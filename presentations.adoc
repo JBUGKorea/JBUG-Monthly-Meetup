@@ -8,3 +8,8 @@
 * Hawkular https://docs.google.com/presentation/d/1Lnw8nBs-EddL9Vm9u32FkSY3HggTFzy5cJ0R_lOlWA4/edit?usp=sharing
 * Bob McWhirter - The Life and Journey of a Professional Open-Source Developer https://lookaside.fbsbx.com/file/The%20Life%20and%20Journey%20of%20a%20Professional%20Open-Source%20Developer%20by%20Bob%20McWhirter.pdf?token=AWwWSOyqabhgP8uMfU5fBUh2LFfoasuaUoaKqVwegYVjwLACrLPFGb39s00e2P6Kvt5L9uotFV8lLZLkZT76_i3IuzXj61R9pJ9Vaz6G87B9an6NbY1qgwaVhTVh2Ri_VsZSZdu5unRdCJOPFnUWOmd1
 * Daniel Oh - The Microservices Journey: Part I Skinny on Fat, Thin, Hollow, and Uber https://lookaside.fbsbx.com/file/%5BJBUG%5DThe%20Microservices%20Journey_%20Part%20I%20-%20Skinny%20on%20Fat%2C%20Thin%2C%20Hollow%2C%20and%20Uber%28Red%20Hat%20Daniel%20Oh%2920170826.pdf?token=AWyENUxfzxOQfbTV9RC3UkiB_OUSmsjz3n6_O8Z2-igtp761XBi_ViyQpOvDCCQxeuvD92S3puJuHD0OtCMihp8EbH7U2snKpN08x7K7QuySsMeL6pNK8i6Re5pUO9VB1wdyuvOa6wkyIVu6rZ-SXrQI
+* JDG 7 & Spark Integration https://docs.google.com/presentation/d/1qdv4N_05WwzuE95FdZ57TJSKo5PZIvJKB9JlDcBwEsk/edit?usp=sharing
+* RequestBufferingHandler 필터 로직 상세 소개 for JBoss EAP 7.1 Undertow https://docs.google.com/presentation/d/1iVjN0B1HoT-jNaeaubahbBAdRm40QVYODdmKJjmAcq4/edit?usp=sharing
+* 오픈 소스 컨트리뷰션 가이드 https://docs.google.com/presentation/d/1pa8qSB58Ciz84_GL00EWC1XMLJhat0Ci1vBAgNg_yXE/edit?usp=sharing
+* Ansible link:presentations/Ansible_2017-Junghun_Shin.pdf[Ansible_2017-Junghun_Shin.pdf]
+* JBoss 최신 기술 소개 https://docs.google.com/presentation/d/1-CAyT2k8ofSAMe6eDR0yJcn35AHXbLF1VjzgoY8bmuA/edit?usp=sharing
