@@ -1,2 +1,25 @@
 == JBoss User Group Korea Monthly Meetup
 ==== https://www.facebook.com/groups/jbossusergroup
+
+== [underline]#광고#
+* 4월 27,28일 봄맞이 _"JBUG 속초 MeetUp"_ 진행합니다. 지금이라도 얼릉 신청해주세요!
+ - https://www.facebook.com/events/619936798354386/
+
+* _"JBUG OpenShift Container & Microservices 집중 스터디"_ 진행 중입니다. 주제에 관심있으신 분들은 연락 주세요!
+ - https://www.facebook.com/groups/267328273801237/
+
+== Introduce JBUG Korea Community
+* https://www.slideshare.net/jbugkorea/jbug-korea
+* https://www.slideshare.net/jbugkorea/jbug-10th-jbosscommunityoverview
+
+== JBUG Meetup Presentations
+* link:presentations.adoc[presentations.adoc]
+
+== JBUG Korea Slideshare
+ - https://www.slideshare.net/jbugkorea/presentations
+
+== JBUG Korea Logo
+* http://design.jboss.org/jbugkorea/
+ - https://issues.jboss.org/browse/DESIGN-492
+
+
