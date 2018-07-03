@@ -1,0 +1,41 @@
+== JBUG Meetup (May 2018)
+==== Saturday, May 26th at 2 PM ~ 6 PM
+* https://www.facebook.com/events/237154723505111/
+
+
+=== 공지
+----
+5월 정기 모임 공지입니다.
+
+5월 26일 토요일 오후 2시 ~ 6시
+모임명 : NAVER개발자커뮤니티지원_JBUGKorea
+토즈 선릉점
+서울특별시 강남구 테헤란로70길 14-8 세왕개발빌딩
+02-2052-0113 (출처 : 네이버 지도) http://naver.me/xoNEKJGV
+
+* 주제 상관없이 발표 지원 받습니다. 간단한 공유도 좋습니다.
+
+우리 모임은 Naver D2 의 지원을 받습니다.
+----
+
+=== Session
+* OpenShift DNS 메커니즘 설명 - 차정호
+- http://barunmo.blogspot.kr/2018/03/red-hat-ocp-35-dns_93.html
+
+* Jenkins X Hands-on - Ted Won
+** Jenkins X 는 Kubernetes 상에서의 cloud application 개발을 위한 CI/CD 도구입니다.
+** Step 1. Create a new kubernetes cluster on GKE
+** Step 2. Create a new Spring Boot application with CI / CD pipelines
+** https://goo.gl/qSGeUw
+** https://jenkins-x.io/demos/create_cluster_gke/
+** http://jenkins-x.io/demos/create_spring/
+** Prerequisites 사전 준비 사항
+*** Laptop
+*** Google Cloud Compute Engine 계정
+**** https://console.cloud.google.com
+*** github 계정
+
+=== Next Plan
+* Jenkins X Hands-on by minikube
+
+pass:[<div align="center"><b><a href="https://www.facebook.com/groups/jbossusergroup" target="_blank">www.facebook.com/groups/jbossusergroup</a></b></div>]
