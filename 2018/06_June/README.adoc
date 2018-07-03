@@ -1,0 +1,37 @@
+== JBUG Meetup (June 2018)
+==== Saturday, June 23th at 2 PM ~ 6 PM
+* https://www.facebook.com/events/1920859184819345/
+
+
+=== 공지
+----
+6월 정기 모임 공지입니다.
+
+6월 23일 토요일 오후 2시 ~ 6시
+모임명 : NAVER개발자커뮤니티지원_JBUGKorea
+토즈 강남2호점
+서울특별시 서초구 강남대로 459 백암빌딩
+02-591-0116 (출처 : 네이버 지도) http://naver.me/FiHMOBhE
+
+* 주제 상관없이 발표 지원 받습니다. 간단한 공유도 좋습니다.
+
+우리 모임은 Naver D2 의 지원을 받습니다.
+----
+
+=== Session
+* Jenkins X with Minikube Hands-on - Ted Won
+** Jenkins X 는 Kubernetes 상에서의 cloud application 개발을 위한 CI/CD 도구입니다.
+** Step 1. Create a new kubernetes cluster on Minikube
+** Step 2. Create a new Spring Boot application with CI / CD pipelines
+** https://goo.gl/qSGeUw
+** https://jenkins-x.io/commands/jx_create_cluster_minikube/
+** http://jenkins-x.io/demos/create_spring/
+** Prerequisites 사전 준비 사항
+*** Mac, Linux Laptop (Windows는 지원 안됩니다 !!)
+*** github 계정
+
+=== Next Plan
+* Apache Kafka & Confluent - Ted Won
+** https://www.confluent.io/
+
+pass:[<div align="center"><b><a href="https://www.facebook.com/groups/jbossusergroup" target="_blank">www.facebook.com/groups/jbossusergroup</a></b></div>]
