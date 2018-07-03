@@ -1,0 +1,8 @@
+== JBUG Meetup (April 2018)
+==== 2018 JBUG KOREA 워크샵
+* April 27 ~ 28th
+* JBUG 속초 MeetUp
+* https://www.facebook.com/events/619936798354386/
+* https://docs.google.com/spreadsheets/d/1e7sICzD0WxZUFQ6PrN-oOUaRs2yoVNuqE-zNZQ8BcAs/edit?usp=sharing
+
+pass:[<div align="center"><b><a href="https://www.facebook.com/groups/jbossusergroup" target="_blank">www.facebook.com/groups/jbossusergroup</a></b></div>]
