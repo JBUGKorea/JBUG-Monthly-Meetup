@@ -30,6 +30,21 @@
 * AsciiDoc-Deck.js Hands-on - Ted Won
 ** http://houqp.github.io/asciidoc-deckjs/
 
+=== Attendees
+
+* 서동호
+* 신정훈
+* 양영진
+* 오길원
+* 오창윤
+* 원종석
+* 이상덕
+* 이용혁
+* 이창희
+* 이형문
+* 전성욱
+* 차정호
+
 === Next Plan
 
 * *JBUG Meetup with Bruno Georges*
