@@ -1,0 +1,43 @@
+== JBUG Meetup (July 2018)
+
+==== Saturday, July 28th at 2 PM ~ 6 PM
+
+* https://www.facebook.com/events/266902543892760/
+
+
+=== 공지
+----
+7월 정기 모임 공지입니다.
+
+7월 28일 토요일 오후 2시 ~ 6시
+모임명 : NAVER개발자커뮤니티지원_JBUGKorea
+토즈 역삼점
+서울특별시 강남구 논현로98길 6
+02-3452-0811 (출처 : 네이버 지도) http://naver.me/xFXlUDTW
+----
+
+=== Session
+
+* Apache Kafka & Confluent Hands-on - Ted Won
+** https://github.com/tedwon/kafka-workshop
+** http://kafka.apache.org/
+** https://www.confluent.io/
+** https://goo.gl/ftPx3h
+** Mac, Linux Laptop (Windows는 지원 못 해드려요)
+** twitter 계정
+*** https://developer.twitter.com/en/apps
+
+* AsciiDoc-Deck.js Hands-on - Ted Won
+** http://houqp.github.io/asciidoc-deckjs/
+
+=== Next Plan
+
+* *JBUG Meetup with Bruno Georges*
+** 8월 30일 목요일 저녁에 한국 개발자와 Bruno Georges (Red Hat JBoss Middleware Engineering Global Platforms Director) 간의 커뮤니케이션 미트업을 가질 예정입니다.
+** https://www.youtube.com/watch?v=J7qFOxi160k
+** 평일 저녁이지만 많은 참여 부탁드립니다.
+** 상세 내용은 추후 공지하겠습니다.
+
+* *8월 정기모임 세미나 미트업은 없습니다.*
+
+pass:[<div align="center"><b><a href="https://www.facebook.com/groups/jbossusergroup" target="_blank">www.facebook.com/groups/jbossusergroup</a></b></div>]
