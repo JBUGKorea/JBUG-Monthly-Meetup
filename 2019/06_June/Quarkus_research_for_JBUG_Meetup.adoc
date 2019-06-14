@@ -1,0 +1,154 @@
+== Quarkus
+* https://quarkus.io/
+* https://github.com/quarkusio/quarkus
+* https://github.com/quarkusio/quarkus-quickstarts
+* My sides: https://docs.google.com/presentation/d/1w4joOZGcWw7-cY5tGEo1ltl3O-Cq199t3dj762N-6bw/edit#slide=id.p
+* https://developers.redhat.com/blog/2019/05/09/create-your-first-quarkus-project-with-eclipse-ide-red-hat-codeready-studio/
+
+* Quarkus, Red Hat’s timely contribution to bring Java to Kubernetes
+* Quarkus tries to avoid Java reflection as reflection impacts startup time and memory usage, so ideal applications for Quarkus should not use reflection.
+* Quarkus supporting technologies: GraalVM and Eclipse MicroProfile
+* Quarkus includes Reactive features.
+* Quarkus is mainly targeted for containers and serverless.
+* More than 100 times faster startup allowing real-time scale-up, scale-down, and scale to zero
+* Native applications 을 create하기 위해서 GraalVM을 사용.
+* Substrate VM (native application)
+* Red Hat is an active contributor to the GraalVM community.
+* Eclipse Vert.x and Thorntail both engineering teams have been profoundly involved in the development of Quarkus.
+* Overtime Quarkus will replace Thorntail as our lightweight MicroProfile implementation
+* Eclipse Vert.x will continue as our primary product for reactive development even if Quarkus also includes Reactive features. 
+* We can deploy 10 times more native Quarkus applications in same Memory as we can using a Traditional Cloud-Native Application like Spring Boot or Thorntail.
+
+
+== Why Quarkus
+* http://in.relation.to/2019/03/08/why-quarkus/
+* http://markclittle.blogspot.com/2019/03/why-quarkus.html
+* https://developers.redhat.com/blog/2019/03/29/quarkus-why-compile-to-native/
+
+
+== Developer Joy - A cohesive platform for optimized developer joy:
+* Unified configuration with all configuration in a single property file.
+* Zero config, live reload in the blink of an eye
+* Streamlined code for the 80% common usages, flexible for the 20%
+* No hassle native executable generation
+
+
+== Lightweight Serverless Java Functions With Quarkus
+* https://dzone.com/articles/lightweight-serverless-java-functions-with-quarkus
+
+
+== Introducing Quarkus: a next-generation Kubernetes native Java framework
+* https://developers.redhat.com/blog/2019/03/07/quarkus-next-generation-kubernetes-native-java-framework/
+
+
+== GraalVM
+"Java 차세대 프로젝트"
+
+* HotSopt(JIT) 20년된 오래된 구현체
+* GraalVM은 새로 구현한 HotSopt 차세대 프로젝트
+
+* https://www.graalvm.org/
+* Run Programs Faster Anywhere
+* GraalVM is a universal virtual machine
+
+=== Graal
+* Graal the compiler: compiles bytecode into native code: usable by JIT in lieu of C2 and standalone
+* Written in Java
+
+GraalVM == OpenJDK 8 + Graal + alpha
+
+
+== JIT Compiler
+* Just-In-Time Compiler
+* compiles byte code to native code at runtime
+* a just-in-time (JIT) compiler is a program that turns Java bytecode (a program that contains instructions that must be interpreted) into instructions that can be sent directly to the processor.
+* https://dzone.com/articles/just-time-compiler-jit-hotspot
+
+
+== GraalVM Installation
+* http://www.graalvm.org/downloads/
+** https://github.com/oracle/graal/releases
+
+[source,optons="nowrap"]
+----
+Once you have downloaded GraalVM, expand the archive and set the GRAALVM_HOME variable to this location:
+
+export GRAALVM_HOME=$HOME/Development/graalvm/
+
+On MacOS, point the variable to the Home sub-directory:
+
+mv graalvm-ce-1.0.0-rc14 graalvm $HOME/Development
+ln -s graalvm-ce-1.0.0-rc14 graalvm
+export GRAALVM_HOME=$HOME/Development/graalvm/Contents/Home/
+
+cd $GRAALVM_HOME/bin/
+./gu install native-image
+----
+
+
+== LLVM
+* front-end: universal source code generation compiler
+* back-end: native binary compiler with optimazations
+* Example: Apple Swift
+
+== Spring framework roadmap for supporting GraalVM
+* https://github.com/spring-projects/spring-framework/wiki/GraalVM-native-image-support
+* https://github.com/spring-projects/spring-framework/issues/22968
+
+
+== Eclipse MicroProfile
+* https://microprofile.io/
+* Microservices specifications for Enterprise Java
+* Optimizing Enterprise Java for a Microservices Architecture
+* Eclipse MicroProfile 3.0
+* https://dzone.com/articles/microprofile-5-things-you-need-to-know
+* https://www.baeldung.com/eclipse-microprofile
+
+
+== Ahead-of-time compilation
+* https://en.wikipedia.org/wiki/Ahead-of-time_compilation
+* AOT produces machine optimized code, just like a standard native compiler. 
+
+
+=== Compiling Java with GCJ
+* GNU Compiler for the Java language
+* https://www.systutorials.com/docs/linux/man/1-gcj/
+** Linux command: gcj - Ahead-of-time compiler for the Java language
+* https://www.linuxjournal.com/article/4860
+----
+A problem with JITs is startup overhead. It takes time to compile a method, especially if you want to do any optimization, and this compilation is done each time the application is run. If you decide to compile only the methods most often executed, then you have the overhead of measuring those. Another problem is that a good JIT is complex and takes up a fair bit of space (plus the generated code needs space, which may be on top of the space used by the original bytecode). Little of this space can be in shared memory.
+----
+
+
+== Undertow 3.0 Announcement
+http://undertow.io/blog/2019/04/15/Undertow-3.html
+
+
+== Videos
+
+=== 2분짜리 Quarkus 소개 동영상
+https://www.youtube.com/watch?v=D6Q81A8B5M4
+
+=== 5분짜리 Quarkus 소개 동영상
+https://www.youtube.com/watch?v=DYcEQs-9sb0
+
+=== 50분짜리 Quarkus 소개 동영상
+https://www.youtube.com/watch?v=iJBh2NoSCKM&t=773s
+
+
+== Demo
+
+== Debug
+* https://developers.redhat.com/blog/2019/05/09/create-your-first-quarkus-project-with-eclipse-ide-red-hat-codeready-studio/
+
+=== Demo Script Quarkus 0.12.0
+https://docs.google.com/document/d/1gibDF7Ik3NJrpG30d7-Op33OxbDTpB0gQvGWEwQhvOs/edit
+
+----
+ps -o pid,rss,command -p $(pgrep -f runner)
+
+ldd
+
+target/getting-started-1.0-SNAPSHOT-runner -Dquarkus.http.port=8081 -Dquarkus.log.file.path=target/quarkus.log
+----
+
